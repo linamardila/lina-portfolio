@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React.js showcasing my work, skills, and experience as a UX/UI Designer and UCF Digital Media student.
 
-## 🔗 Live Site
+## Live Site
 [View Portfolio](https://linamardila.github.io/lina-portfolio)
 
 ## Built With
