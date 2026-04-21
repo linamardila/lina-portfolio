@@ -19,6 +19,7 @@ A personal portfolio website built with React.js showcasing my work, skills, and
 - Consistent sage green theme
 
 ## Project Structure
+```
 src/
 ├── components/
 │   ├── Navbar.jsx
@@ -32,6 +33,7 @@ src/
 │   └── GlobalStyles.js
 ├── App.jsx
 └── main.jsx
+```
 
 ## Getting Started
 
